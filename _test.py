@@ -19,7 +19,7 @@ def test_sqaure():
 
 ## Testing the cube function
 def test_cube():
-    assert cube(3) == 8, "Test Failed: Cube of 2 should be 8"
+    assert cube(2) == 8, "Test Failed: Cube of 2 should be 8"
     assert cube(3) == 27, "Test Failed: Cube of 3 should be 27"
 
 ## Testing the fifth power function
